@@ -1,0 +1,71 @@
+body{
+    background-color: white;
+}
+ul li{
+    display:inline;
+    font-size: large;
+
+}
+ul{
+    background-color:white;
+    padding: 30px;
+    border-radius: 5px;
+    text-align: end;
+     
+}
+li a {
+    color: black;
+}
+ul li{
+    text-decoration-line: white;
+    color: white;
+    padding: 40px;
+    font-weight: bold;
+}
+.myimg{
+    position: absolute;
+    top: 0.2%;
+}
+div #id.column{
+    float: left;
+    width: 33.3%;
+    padding: 5px;
+}
+div {
+    display: block;
+    box-sizing: border-box;
+    width:auto;
+  }
+  form {
+    /* display: inline-block; */
+    box-sizing: border-box;
+    width:auto;
+    /* border-bottom: 0cap; */
+    border-radius: 1cap;
+    /* justify-items: center; */
+    justify-self:center;
+    text-align: center;
+    
+  }
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 50%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1; 
+}
+footer{
+    text-align: center;
+    color: black;
+    /* padding: 5px; */
+}
+.h1-h3{
+    text-align: center;
+}
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
